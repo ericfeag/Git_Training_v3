@@ -3,3 +3,4 @@ This is Smple File 1
 
 Commiting new message in this file
 This is comparison lecture
+This is comparison lecture, Change in Main File 
